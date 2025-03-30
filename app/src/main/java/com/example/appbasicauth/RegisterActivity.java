@@ -170,8 +170,8 @@ public class RegisterActivity extends AppCompatActivity {
         if (phone.isEmpty()) {
             tilPhone.setError("Ingresa tu número telefónico");
             isValid = false;
-        } else if (phone.length() != 10 || !Pattern.matches("[0-9]+", phone)) {
-            tilPhone.setError("Ingresa un número telefónico válido de 10 dígitos");
+        } else if (phone.length() != 8 || !Pattern.matches("[0-9]+", phone)) {
+            tilPhone.setError("Ingresa un número telefónico válido de 8 dígitos");
             isValid = false;
         } else {
             tilPhone.setError(null);
