@@ -1,0 +1,23 @@
+<resources>
+    <!-- Material 3 colores para tema claro -->
+    <color name="md_theme_light_primary">#006A69</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#70F5F4</color>
+    <color name="md_theme_light_onPrimaryContainer">#002020</color>
+    <color name="md_theme_light_secondary">#4A6363</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_surface">#FAFDFD</color>
+    <color name="md_theme_light_onSurface">#191C1C</color>
+    <color name="md_theme_light_outline">#6F7979</color>
+
+    <!-- Material 3 colores para tema oscuro -->
+    <color name="md_theme_dark_primary">#4CD9D8</color>
+    <color name="md_theme_dark_onPrimary">#003737</color>
+    <color name="md_theme_dark_primaryContainer">#004F4F</color>
+    <color name="md_theme_dark_onPrimaryContainer">#70F5F4</color>
+    <color name="md_theme_dark_secondary">#B0CACA</color>
+    <color name="md_theme_dark_onSecondary">#1B3434</color>
+    <color name="md_theme_dark_surface">#191C1C</color>
+    <color name="md_theme_dark_onSurface">#E0E3E3</color>
+    <color name="md_theme_dark_outline">#899393</color>
+</resources>
