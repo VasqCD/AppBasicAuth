@@ -20,7 +20,7 @@ import java.util.Map;
 
 public class ApiClient {
     private static final String TAG = "ApiClient";
-    private static final String BASE_URL = "http://107.22.154.13/auth-api/api/";
+    private static final String BASE_URL = "http://107.22.154.13/api/auth/";
 
     private static ApiClient instance;
     private RequestQueue requestQueue;
